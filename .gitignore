@@ -1,5 +1,14 @@
 # Data
 /data/raw/
+/data/processed/
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+# Logs
+*.log
+# Env
+.env
 # Python
 __pycache__/
 *.pyc
